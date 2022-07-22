@@ -1,2 +1,2 @@
 # mehmet
-Do things here. After words, do more stuff.
+Do things here. Afterwards, do more stuff.
